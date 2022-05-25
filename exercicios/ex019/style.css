@@ -1,0 +1,14 @@
+body{ background-color: #C4EEF2; font-family: sans-serif;}
+h1{color: #7AB8BF;}
+h2{color:#025159;}
+h1#principal{ text-align: center; background-color:#365154;color: #1c9fa8;}
+.basico{color:#dd8860 ; font-weight:bolder;
+
+}
+.intermediario{ color:#0bb314
+
+}
+.avancado{color:#6f8607
+
+}
+.destaque{background-color: rgb(167, 167, 43);}
